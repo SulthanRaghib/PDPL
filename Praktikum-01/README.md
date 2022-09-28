@@ -16,4 +16,4 @@ public class Biadata {
 
 ## Thit Output
 
-<img src="hasil.png" width="100%">
+<img src="hasil.png" width="25%">
