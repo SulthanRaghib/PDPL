@@ -1,7 +1,7 @@
 ## This Code
 
 <pre>
-public class Biadata {
+public class Biodata {
    public static void main(String[] args) {
       System.out.println("===========================");
       System.out.println("        MY BIODATA");
