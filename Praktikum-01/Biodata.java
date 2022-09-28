@@ -4,7 +4,7 @@
 // 2. Screenshot tampilannya dan upload pada kantung tugas di Elena.
 
 
-public class Biadata {
+public class Biodata {
    public static void main(String[] args) {
       System.out.println("===========================");
       System.out.println("        MY BIODATA");
