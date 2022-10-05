@@ -28,4 +28,4 @@ public class MathFormula {
 
 ## This Output
 
-<img src="hasil.png" width="100%">
+<img src="result.png" width="100%">
