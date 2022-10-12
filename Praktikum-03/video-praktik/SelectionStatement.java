@@ -1,5 +1,5 @@
-// Selection Statement
-public class ifDemo {
+// IF DEMO
+public class SelectionStatement {
    public static void main(String[] args) {
       int i = 10;
 
