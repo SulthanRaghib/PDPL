@@ -1,6 +1,6 @@
 ## This Code
 
-<pre>
+```shell
 public class MathFormula {
    public static void main(String[] args) {
       int a = 3;
@@ -24,7 +24,7 @@ public class MathFormula {
       System.out.println("Maka nilai C adalah : " + hasil);
    }
 }
-</pre>
+```
 
 ## This Output
 
