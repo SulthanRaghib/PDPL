@@ -1,6 +1,6 @@
 ## This Code
 
-<pre>
+```shell
 public class Biodata {
    public static void main(String[] args) {
       System.out.println("===========================");
@@ -12,7 +12,7 @@ public class Biodata {
       System.out.println("Fakultas: Teknik");
    }
 }
-</pre>
+```
 
 ## This Output
 
