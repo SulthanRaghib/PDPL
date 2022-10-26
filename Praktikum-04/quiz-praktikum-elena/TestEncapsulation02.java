@@ -1,0 +1,72 @@
+/*
+ * Apa yang akan dihasilkan oleh kelas TestEncapsulation:
+ * Apabila atribut pada kelas Encapsulate diset menjadi "protected"?
+ * 
+ * Jawaban:
+ * c. Geek's name: Harsh  Geek's age: 19  Geek's roll: 51
+ */
+public class TestEncapsulation02 {
+   public static void main(String[] args) {
+      Encapsulate obj = new Encapsulate();
+
+      // setting value of the variables
+      obj.setName("Sulthan Raghib Fillah");
+      obj.setAge(20);
+      obj.setRoll(2);
+
+      // Displaying values of the variables
+      System.out.println("Name : " + obj.getName());
+      System.out.println("Age  : " + obj.getAge());
+      System.out.println("Roll : " + obj.getRoll());
+
+      // Direct access of studentRoll is not possible
+      // due to encapsulation
+      // System.out.println("Geek's Roll: " + obj.geekName);
+
+   }
+}
+
+class Encapsulate {
+   // private variables declared
+   // these can only be accessed by
+   // public methods of class
+   protected String geekName;
+   protected int geekRoll;
+   protected int geekAge;
+
+   // get method for age to access
+   // private variable geekAge
+   public int getAge() {
+      return geekAge;
+   }
+
+   // get method for name to access
+   // private variable geekName
+   public String getName() {
+      return geekName;
+   }
+
+   // get method for roll to access
+   // private variable geekRoll
+   public int getRoll() {
+      return geekRoll;
+   }
+
+   // set method for age to access
+   // private variable geekage
+   public void setAge(int newAge) {
+      geekAge = newAge;
+   }
+
+   // set method for name to access
+   // private variable geekName
+   public void setName(String newName) {
+      geekName = newName;
+   }
+
+   // set method for roll to access
+   // private variable geekRoll
+   public void setRoll(int newRoll) {
+      geekRoll = newRoll;
+   }
+}
