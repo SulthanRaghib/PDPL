@@ -9,7 +9,7 @@
  * mengapa demikian? karena yang di kasih final class Dog, 
  * dan yang di panggil didalam test new Cat 😆
  * dan apabila yang dipanggil class new Dog, dan apabila ada class turunan/extend
- * maka akan error
+ * maka akan error, karena jika class ada final, maka dia tidak bisa jadi class turunan
  */
 class Animal {
    void eat() {
