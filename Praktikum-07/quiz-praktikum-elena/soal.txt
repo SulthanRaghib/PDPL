@@ -1,0 +1,266 @@
+Ayyash Mumtaz Hafizh - Attempt ke-1 - SCORE 50
+1. Berikut ini merupakan tipe variabel di Java
+   a. static, primitive, local
+   b. local, instance, static (j) ✅
+   c. instance, private, local
+   d. instance, local, primitive
+
+2. Berikut ini merupakan pernyataan yang benar terkait interpreter
+   a. Waktu eksekusi interpreter lebih cepat dibandingkan compiler (j) ❌
+   b. Python merupakan salah satu bahasa pemrograman yang bertipe compiler
+   c. Java merupakan salah satu bahasa pemrograman yang bertipe compiler
+   d. Interpreter tidak langsung menerjemahkan source code ke kode mesin ✅
+
+3. Untuk membandingkan nilai dari variabel String, dapat digunakan perintah berikut ini if(string1 == string2)
+   True
+   False(j) ✅
+
+4. Teknik Overriding secara teknis hanya bisa diimplementasikan pada lebih dari satu kelas
+   True ✅
+   False(j) ❌
+
+5. Teknik Overloading secara teknis bisa diimplementasikan dalam satu kelas
+   True(j) ✅
+   False
+
+6. Overriding adalah teknik untuk mendukung Compile-time polimorfisme
+   True ✅
+   False(j) ❌
+
+7. Berikut ini merupakan pernyataan yang benar terkait compiler
+   a. Compiler langsung menerjemahkan source code ke kode mesin
+   b. Waktu eksekusi compiler lebih lambat dibandingkan interpreter
+   c. Java merupakan salah satu bahasa pemrograman yang bertipe compiler ✅
+   d. Python merupakan salah satu bahasa pemrograman yang bertipe compiler(j) ❌
+
+8. Saat membuat suatu kelas di Java, maka otomatis akan mengalokasi kuota memori di perangkat yang digunakan
+   True(j) ✅
+   False
+
+9. Berikut ini merupakan hal yang benar terkait Sequential dan Procedural programming, kecuali
+   a. Tidak menyediakan kelas yang bisa membungkus perkerjaan dalam suatu objek
+   b. Tidak dapat memanfaatkan kode yang sama untuk task yg berbeda
+   c. Dapat menyelesaikan tugas secara moduler, sehingga task mudah dikerjakan secara terpisah
+   d. Semakin lama baris program akan semakin rumit dan susah untuk dikontrol (kayaknya)
+
+10. Overloading adalah teknik untuk mendukung Compile-time polimorfisme
+   True(j)✅
+   False
+
+Ahmad Raihan Afif - Attempt ke-1 - SCORE 70
+1. Syntax yang dapat digunakan jika Kelas A mewarisi Kelas B adalah
+   a. class B inherit A
+   b. class A extends B (j) ✅
+   c. class B extends A
+   d. class A inherit B
+
+2. Berikut ini merupakan pernyataan yang benar terkait interpreter
+   a. Java merupakan salah satu bahasa pemrograman yang bertipe compiler
+   b. Interpreter tidak langsung menerjemahkan source code ke kode mesin ✅
+   c. Python merupakan salah satu bahasa pemrograman yang bertipe compiler
+   d. Waktu eksekusi interpreter lebih cepat dibandingkan compiler
+
+3. Encapsulation digunakan untuk menyembunyikan data dari suatu kelas di Java
+   True (j) ✅
+   False
+
+4. Jika menggunakan konsep Pemrograman Berorientasi Objek, maka pada studi kasus transaksi di sebuah lembaga 
+keuangan, objek berikut ini yang akan menjadi fokus programmer ketika mengembangkan sistemnya
+   a. Bunga, Cicilan, Transfer
+   b. Tarik Tunai, Menabung, Transfer (j) ✅
+   c. Kredit, Debit, Reversal
+   d. Nasabah, Rekening, Uang
+
+
+5. Untuk menghitung operasi x pangkat n di Java, rumus yg dapat digunakan adalah
+   a. Math.sqrt(x, n)
+   b. x*n
+   c. Math.pow(x, n) (j) ✅
+   d. (x*n)*n
+
+6. Berikut ini merupakan pernyataan yang benar terkait compiler
+   a. Compiler langsung menerjemahkan source code ke kode mesin
+   b. Java merupakan salah satu bahasa pemrograman yang bertipe compiler (j) ❌
+   c. Python merupakan salah satu bahasa pemrograman yang bertipe compiler ✅
+   d. Waktu eksekusi compiler lebih lambat dibandingkan interpreter
+
+7. Sub class disebut juga dengan kelas turunan atau kelas anak
+   True (j) ✅
+   False
+
+8. Berikut ini merupakan hal yang benar terkait Sequential dan Procedural programming, kecuali
+   a. Tidak dapat memanfaatkan kode yang sama untuk task yg berbeda
+   b. Semakin lama baris program akan semakin rumit dan susah untuk dikontrol (j) ❌
+   c. Tidak menyediakan kelas yang bisa membungkus perkerjaan dalam suatu objek
+   d. Dapat menyelesaikan tugas secara moduler, sehingga task mudah dikerjakan secara terpisah ✅
+
+9. Syntax yang dapat digunakan jika Kelas A mewarisi Interface B adalah
+   a. class B implement A
+   b. class B implements A
+   c. class A implement B
+   d. class A implements B (j) ✅
+
+10. Berikut ini merupakan tipe variabel di Java
+   a. static, primitive, local
+   b. local, instance, static (j) ✅
+   c. instance, private, local
+   d. instance, local, primitive
+
+Sulthan Raghib Fillah - Attempt ke-1 - SCORE 90
+1. Teknik Overriding secara teknis hanya bisa diimplementasikan pada lebih dari satu kelas
+   True (j)
+   False
+
+2. Berikut ini merupakan tipe variabel di Java
+   a. instance, private, local
+   b. static, primitive, local
+   c. local, instance, static (j)
+   d. instance, local, primitive
+
+3. Apa saja fitur yang bisa diwariskan dari suatu kelas?
+   a. variabel dan nilai
+   b. data member dan method (j)
+   c. setter dan getter
+   d. konstruktor dan literal variabel
+
+4. Multiple Inheritance antar kelas bisa dilakukan di Java
+   True
+   False(j)
+
+5. Super class disebut juga dengan kelas turunan atau kelas anak
+   True
+   False(j)
+
+6. Pada interface, hak akses yang dapat digunakan adalah bertipe
+   a. protected
+   b. default
+   c. public (j)
+   d. private
+
+7. Pola desain Perangkat lunak adalah konsep mengenai bagaimana merancang visual suatu perangkat lunak yang sudah dikembangkan.
+   True (j)
+   False
+
+8. Syntax yang dapat digunakan jika Kelas A mewarisi Interface B adalah
+   a. class B implements A
+   b. class B implement A
+   c. class A implement B
+   d. class A implements B (j)
+
+9. Untuk menghitung operasi x pangkat n di Java, rumus yg dapat digunakan adalah
+   a. (x*n)*n
+   b. x*n
+   c. Math.pow(x, n) (j)
+   d. Math.sqrt(x, n)
+
+10. Berikut ini merupakan komponen yang harus ada saat menginisialisasi suatu variabel di dalam Java, kecuali
+   a. literal variabel (j)
+   b. nama variabel
+   c. nilai variabel
+   d. tipe data
+
+
+Ahmad Raihan Afif - Attempt ke-2 - SCORE 80
+1. Jika fitur di suatu kelas tidak ingin diwariskan ke kelas lain maka
+   a.menambahkan syntax protected pada awal kelas yang ingin diwariskan
+   b.menambahkan syntax protected pada awal kelas yang tidak ingin diwariskan
+   c.menambahkan syntax final pada awal kelas yang ingin diwariskan
+   d.menambahkan syntax final pada awal kelas yang tidak ingin diwariskan (j)
+
+2. Teknik Overloading secara teknis bisa diimplementasikan dalam satu kelas
+   True (j)
+   False
+
+3. Overloading adalah teknik untuk mendukung Compile-time polimorfisme
+   True (j)
+   False
+
+4. Saat menginisialisasi suatu variabel di Java, maka sistem otomatis akan mengalokasikan kuota memori di perangkat yang digunakan
+   True (j)
+   False
+
+5. Apa saja fitur yang bisa diwariskan dari suatu kelas?
+   a.konstruktor dan literal variabel
+   b.setter dan getter
+   c.data member dan method (j)
+   d.variabel dan nilai
+
+6. Pola desain Perangkat lunak adalah konsep mengenai bagaimana merancang visual suatu perangkat lunak yang sudah dikembangkan.
+   True (j)
+   False
+
+7. Berikut ini merupakan komponen yang harus ada saat menginisialisasi suatu variabel di dalam Java, kecuali
+   a. literal variabel (j)
+   b. tipe data
+   c. nilai variabel
+   d. nama variabel
+
+8. Berikut ini merupakan tipe hak akses pada Java
+   a. public, local, primitive
+   b. default, primitive, local, private
+   c. public, protected, private, default (j)
+   d. public, global, local, default
+
+9. Berikut ini merupakan hal yang benar terkait alasan mempelajari konsep Pola Desain, kecuali
+   a. Memanfaatkan solusi desain source code yang telah dikembangkan oleh penemu sebelumnya
+   b. Menggunakan konsep Pemrograman Berorientasi Objek yang sudah terstruktur dengan baik
+   c. Membantu menyesuaikan antara kebutuhan pengguna dengan tampilan perangkat lunak (j)
+   d. Dengan mempelajari konsep desain pemrograman yang sudah ada, programmer bisa fokus ke masalah yang lain, sehingga lebih produktif
+
+10. Berikut ini pernyataan yang salah terkait interface, kecuali
+   a. Interface bisa menginstansiasi objek dan variabel
+   b. Interface hanya mendukung hak akses tipe default
+   c. Interface tidak bisa menginstansiasi objek dan variabel
+   d. Interface hanya mendukung hak akses tipe protected (j)
+
+
+Luvy Muhammad Rizqi - Attempt ke-1 - SCORE 50
+1. Berikut ini merupakan hal yang benar terkait Sequential dan Procedural programming, kecuali
+a. Dapat menyelesaikan tugas secara moduler, sehingga task mudah dikerjakan secara terpisah (j)
+b. Tidak menyediakan kelas yang bisa membungkus perkerjaan dalam suatu objek
+c. Semakin lama baris program akan semakin rumit dan susah untuk dikontrol
+d. Tidak dapat memanfaatkan kode yang sama untuk task yg berbeda
+
+2. Overloading adalah teknik untuk mendukung Compile-time polimorfisme
+True (j)
+False
+
+3. Berikut ini merupakan hal yang benar terkait alasan mempelajari konsep Pola Desain, kecuali
+a. Membantu menyesuaikan antara kebutuhan pengguna dengan tampilan perangkat lunak
+b. Dengan mempelajari konsep desain pemrograman yang sudah ada, programmer bisa fokus ke masalah yang lain, sehingga lebih produktif
+c. Menggunakan konsep Pemrograman Berorientasi Objek yang sudah terstruktur dengan baik
+d. Memanfaatkan solusi desain source code yang telah dikembangkan oleh penemu sebelumnya (j)
+
+4. Encapsulation digunakan untuk menyembunyikan data dari suatu kelas di Java
+True (j)
+False
+
+5. Saat membuat suatu kelas di Java, maka otomatis akan mengalokasi kuota memori di perangkat yang digunakan
+True (j)
+False
+
+6. Pemrograman Berorientasi Objek fokus terhadap Objek dan logika pemrograman
+True (j)
+False
+
+7. Berikut ini merupakan tipe hak akses pada Java
+a. public, local, primitive
+b. public, protected, private, default (j)
+c. public, global, local, default
+d. default, primitive, local, private
+
+8. Berikut ini merupakan pernyataan yang benar terkait compiler
+a. Compiler langsung menerjemahkan source code ke kode mesin
+b. Python merupakan salah satu bahasa pemrograman yang bertipe compiler (j)
+c. Java merupakan salah satu bahasa pemrograman yang bertipe compiler
+d. Waktu eksekusi compiler lebih lambat dibandingkan interpreter
+
+9. Syntax yang dapat digunakan jika Kelas A mewarisi Interface B adalah
+a. class A implements B (j)
+b. class B implement A
+c. class A implement B
+d. class B implements A
+
+10. Abstraksi digunakan untuk menyembunyikan proses dari suatu method di Java
+True
+False (j)
