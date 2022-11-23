@@ -1,5 +1,3 @@
-package ShallowCopy;
-
 class ABC {
    // instance variable of class ABC
    int x = 9;

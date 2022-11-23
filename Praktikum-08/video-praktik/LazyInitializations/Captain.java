@@ -1,5 +1,3 @@
-package LazyInitializations;
-
 public class Captain {
    public static Captain myCaptain;
 

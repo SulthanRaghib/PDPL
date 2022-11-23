@@ -1,5 +1,3 @@
-package DeepCopy;
-
 // ubstace variable of class ABC
 class ABC {
    int x = 9;
