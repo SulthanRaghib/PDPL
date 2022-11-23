@@ -1,0 +1,108 @@
+UTS - Sesi Rabu
+Your final grade for this quiz is 
+70.00/100.00.
+
+Berikut ini merupakan pernyataan yang benar terkait compiler
+a.Compiler langsung menerjemahkan source code ke kode mesin
+b.Java merupakan salah satu bahasa pemrograman yang bertipe compiler (j)
+c.Python merupakan salah satu bahasa pemrograman yang bertipe compiler (j)(s)
+d.Waktu eksekusi compiler lebih lambat dibandingkan interpreter
+
+Saat menginisialisasi suatu variabel di Java, maka sistem otomatis akan mengalokasikan kuota memori di perangkat yang digunakan
+Select one:
+True (j)
+False
+
+Berikut ini merupakan tipe hak akses pada Java
+a.default, primitive, local, private
+b.public, local, primitive
+c.public, global, local, default
+d.public, protected, private, default (j)
+
+Untuk membandingkan nilai dari variabel String, dapat digunakan perintah berikut ini if(string1 == string2)
+Select one:
+True
+False (j)
+
+Syntax yang dapat digunakan jika Kelas A mewarisi Interface B adalah
+a.class B implement A
+b.class A implement B
+c.class B implements A
+d.class A implements B (j)
+
+Pada interface, hak akses yang dapat digunakan adalah bertipe
+a.public (j)
+b.private
+c.default
+d.protected
+
+Teknik Overloading secara teknis bisa diimplementasikan dalam satu kelas
+Select one:
+True (j)
+False
+
+Pola desain Perangkat lunak adalah konsep mengenai bagaimana merancang visual suatu perangkat lunak yang sudah dikembangkan.
+Select one:
+True (j)
+False
+
+Pemrograman Berorientasi Objek fokus terhadap Objek dan logika pemrograman
+Select one:
+True (j)
+False
+
+Sub class disebut juga dengan kelas turunan atau kelas anak
+Select one:
+True (j)
+False
+
+Berikut ini merupakan hal yang benar terkait alasan mempelajari konsep Pola Desain, kecuali
+a.Dengan mempelajari konsep desain pemrograman yang sudah ada, programmer bisa fokus ke masalah yang lain, sehingga lebih produktif
+b.Memanfaatkan solusi desain source code yang telah dikembangkan oleh penemu sebelumnya
+c.Membantu menyesuaikan antara kebutuhan pengguna dengan tampilan perangkat lunak (j)
+d.Menggunakan konsep Pemrograman Berorientasi Objek yang sudah terstruktur dengan baik
+
+Untuk menghitung operasi x pangkat n di Java, rumus yg dapat digunakan adalah
+a.x*n
+b.Math.pow(x, n) (j)
+c.Math.sqrt(x, n)
+d.(x*n)*n
+
+Encapsulation digunakan untuk menyembunyikan data dari suatu kelas di Java
+Select one:
+True (j)
+False
+
+Saat membuat suatu kelas di Java, maka otomatis akan mengalokasi kuota memori di perangkat yang digunakan
+Select one:
+True (j)
+False
+
+Berikut ini merupakan komponen yang harus ada saat menginisialisasi suatu variabel di dalam Java, kecuali
+a.nilai variabel
+b.tipe data
+c.literal variabel (j)
+d.nama variabel
+
+Syntax yang dapat digunakan jika Kelas A mewarisi Kelas B adalah
+a.class A inherit B
+b.class B extends A
+c.class A extends B (j)
+d.class B inherit A
+
+Jika fitur di suatu kelas tidak ingin diwariskan ke kelas lain maka
+a.menambahkan syntax protected pada awal kelas yang ingin diwariskan
+b.menambahkan syntax final pada awal kelas yang ingin diwariskan
+c.menambahkan syntax protected pada awal kelas yang tidak ingin diwariskan
+d.menambahkan syntax final pada awal kelas yang tidak ingin diwariskan (j)
+
+Overloading adalah teknik untuk mendukung Compile-time polimorfisme
+Select one:
+True (j)
+False
+
+Berikut ini merupakan pernyataan yang benar terkait interpreter
+a.Interpreter tidak langsung menerjemahkan source code ke kode mesin (j)
+b.Java merupakan salah satu bahasa pemrograman yang bertipe compiler
+c.Python merupakan salah satu bahasa pemrograman yang bertipe interpreter
+d.Waktu eksekusi interpreter lebih cepat dibandingkan compiler
