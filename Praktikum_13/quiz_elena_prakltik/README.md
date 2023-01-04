@@ -2,7 +2,7 @@
 
 1. Jika kita ingin menambahkan fungsional baru pada pola Decorator berikut,
 
-<img src="img/soal-1.png">
+<img src="img/DecoratorClass.png">
 
 maka perubahan yg diperbolehkan terjadi adalah pada:
 
@@ -14,6 +14,8 @@ d. Penambahan kelas decorator baru untuk mengakomodasi fungsionalitas yg dibutuh
 ## Soal 2
 
 2. Apa yang akan terjadi, jika keyword "abstract" pada line 3 dihapus?
+
+<img src="img/AbstractClass.png">
 
 a. Terdapat error sebelum program dicompile pada line 3
 b. Program masih berjalan lancar tanpa error karena semua method di interface sudah diimplementasikan pada kelas Decorator tersebut ✅
